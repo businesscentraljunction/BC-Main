@@ -1,0 +1,6 @@
+.alpackages/
+.snapshots/
+.history/
+*.app
+*.g.xlf
+.rad.json
