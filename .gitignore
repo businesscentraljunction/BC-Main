@@ -4,3 +4,4 @@
 *.app
 *.g.xlf
 .rad.json
+app.json
